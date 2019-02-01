@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+section#s1 {
+  height: 800px;
+  -webkit-box-shadow: 0 1px 6px 0 #ececec;
+          box-shadow: 0 1px 6px 0 #ececec;
+}
+
+section#some {
+  margin: 5em 0;
+}
+
+section#some img {
+  margin-top: 1.5em;
+}
+/*# sourceMappingURL=main.css.map */
